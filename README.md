@@ -6,8 +6,11 @@ I thought the game seemed pretty interesting, so I thought it would be a fun pro
 to play the game through, and desinged a simple AI to play against. 
 
 I used the following sound files in my game:
+
 https://freesound.org/people/Mativve/sounds/391539/
+
 https://freesound.org/people/el_boss/sounds/546119/
+
 https://freesound.org/people/VM83/sounds/538960/
 
 # Demonstration
