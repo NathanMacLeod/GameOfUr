@@ -13,4 +13,4 @@ https://freesound.org/people/VM83/sounds/538960/
 # Demonstration
 
 Click the image below to view a video of me playing against the bot: 
-[![Gameplay](https://www.youtube.com/watch?v=p0UPaWhaSOg/0.jpg)](https://www.youtube.com/watch?v=p0UPaWhaSOg)
+[![Gameplay](https://img.youtube.com/vi/p0UPaWhaSOg/0.jpg)](https://www.youtube.com/watch?v=p0UPaWhaSOg)
